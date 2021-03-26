@@ -2,7 +2,7 @@
 
 ## Тема
 - Cash flow management
-- 
+
 ## Team
 - Leader - Денислав Тащан
 - Data & Machine Learning Designer - Виктория Начева
