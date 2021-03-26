@@ -1,8 +1,8 @@
 # HaBit
 <h3> Тема
-<p3>Cash flow management
+<h5>Cash flow management
 <h3> Team
-<p3>Leader - Денислав Тащан
-<p3>Data & Machine Learning Designer - Виктория Начева
-<p3>Deep Learning Designer - София Желева
-<p3>Application Designer - Анелия Кичукова
+<h5>Leader - Денислав Тащан
+<h5>Data & Machine Learning Designer - Виктория Начева
+<h5>Deep Learning Designer - София Желева
+<h5>Application Designer - Анелия Кичукова
