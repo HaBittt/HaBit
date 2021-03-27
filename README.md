@@ -61,8 +61,8 @@ cv2.imshow(thresh1,’gray’)
 пазят касови бележки).
 
 ### Как ще изглежда приложението:
-![alt text](Pictures/Sign in.jpeg)
-![alt text](Pictures/Richie and questions.jpeg)
+![alt text](Pictures/Signin.jpeg)
+![alt text](Pictures/Richieandquestions.jpeg)
 ![alt text](Pictures/questions.jpeg)
 ![alt text](Pictures/home page.jpeg)
 
