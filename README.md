@@ -25,7 +25,7 @@
 -![alt text](Pictures/OCR1.png)
 -![alt text](Pictures/OCR2.png)
 
-### OCR
+### Предварителна обработка(Preprocessing)
 
 #### Instalation
 
