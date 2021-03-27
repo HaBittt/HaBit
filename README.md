@@ -25,6 +25,24 @@
 -![alt text](Pictures/OCR1.png)
 -![alt text](Pictures/OCR2.png)
 
+###OCR
+
+####Instalation
+
+pip install opencv-python
+Here’s the code for thresholding.
+
+####Usage
+import cv2
+import numpy as np
+from matplotlib import pyplot as plt
+
+# Read the image
+img = cv2.imread('receipt.jpg',0)
+# Simple thresholding
+ret,thresh1 = cv2.threshold(img,210,255,cv2.THRESH_BINARY)
+cv2.imshow(thresh1,’gray’)
+
 ## Очакван Резултат
 Приложението ни (което също ще се казва HaBit) има за цел да помага на хората, организирайки
 разходите, сметките и доходите им на едно място. Специалното на HaBit е A.I. имплементацията, 
