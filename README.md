@@ -29,24 +29,25 @@
 
 #### Instalation
 
-'''
+```bash
 pip install opencv-python
 Here’s the code for thresholding.
-'''
+```
+
 
 #### Usage
 
-'''
+```python
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
 
-#Read the image
+# Read the image
 img = cv2.imread('receipt.jpg',0)
-#Simple thresholding
+# Simple thresholding
 ret,thresh1 = cv2.threshold(img,210,255,cv2.THRESH_BINARY)
 cv2.imshow(thresh1,’gray’)
-'''
+```
 
 ## Очакван Резултат
 Приложението ни (което също ще се казва HaBit) има за цел да помага на хората, организирайки
